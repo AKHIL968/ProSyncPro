@@ -17,7 +17,7 @@ const Landing = () => {
   return (
     <section className='landing'>
       <nav className='top'>
-        <h2>TrelloClone</h2>
+        <h2>Project SyncPro</h2>
         <div>
           <Button color='inherit' href='/login'>
             Login
